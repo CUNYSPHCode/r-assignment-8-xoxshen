@@ -4,9 +4,7 @@ author: "Sara Birnel Henderson"
 output: word_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 1.  Create a level 2 header below in Markdown with the name "Answer 1".
 
 ## Answer 1
@@ -55,9 +53,9 @@ summary(omodel)
 5.  Replace the author field in the `yaml` header with your name and
     then successfully `knit` the RMarkdown document into a Word
     document.
+* done
 
-6.  Follow the [Pull Request instructions on
-    GitHub](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
-    to submit your assignment via GitHub as a Pull Request to the
-    [Assignment8](https://github.com/CUNYSPHCode/Assignment8)
+
+6.  Follow the [Pull Request instructions on GitHub](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to submit your assignment via GitHub as a Pull Request to the [Assignment8](https://github.com/CUNYSPHCode/Assignment8)
     repository.
+* done
