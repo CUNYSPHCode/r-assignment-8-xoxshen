@@ -53,9 +53,6 @@ summary(omodel)
 5.  Replace the author field in the `yaml` header with your name and
     then successfully `knit` the RMarkdown document into a Word
     document.
-* done
-
 
 6.  Follow the [Pull Request instructions on GitHub](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to submit your assignment via GitHub as a Pull Request to the [Assignment8](https://github.com/CUNYSPHCode/Assignment8)
     repository.
-* done
